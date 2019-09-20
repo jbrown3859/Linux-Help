@@ -27,3 +27,15 @@ If copying a folder,
 ex) scp C:\Users\jbrow\OneDrive\Desktop\linux.md joey@192.168.1.222:/home/joey/md
 ex) scp -R C:\Users\jbrow\OneDrive\Desktop joey@192.168.1.222:/home/joey
 
+#### While working in the server...
+There are a useful commands that you will use often:
+| pwd          | shows present working directory (where you are)          |
+|--------------|----------------------------------------------------------|
+| cd dir       | enter directory with path dir                            |
+| ls           | shows all directories and files in your pwd              |
+| mkdir dir    | makes directory with name dir in your pwd                |
+| vi file.type | makes file 'file' with type 'type' and enters vi to edit |
+| :wq          | save and exit vi when in normal mode                     |
+| Esc          | Enter normal mode in vi                                  |
+| i            | Enter INSERT mode in vi while in normal mode             |
+
