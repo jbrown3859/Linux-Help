@@ -6,7 +6,7 @@ The server is just a GUI-less computer that allows network traffic to access its
 
 
 ### Basic usage
-####Login
+#### Login
 Each user has a username and a password. When entering the password, nothing shows on the screen for security.
 
 #### Remote Login
