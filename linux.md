@@ -41,3 +41,13 @@ There are a useful commands that you will use often:
 | Esc          | Enter normal mode in vi                                  |
 | i            | Enter INSERT mode in vi while in normal mode             |
 
+
+### Server Management
+#### Updating and Upgrading offline
+There are a few ways to do this, one easy way being Keryx.
+Follow these links for more information on this:
+<https://askubuntu.com/questions/711890/installing-packages-from-usb-to-ubuntu-server-14-04>  
+<https://askubuntu.com/questions/974/how-can-i-install-software-or-packages-without-internet-offline?noredirect=1&lq=1>  
+<https://launchpad.net/keryxproject>  
+<https://askubuntu.com/questions/86358/how-to-obtain-installed-package-files>  
+<https://packages.ubuntu.com/bionic/>  
