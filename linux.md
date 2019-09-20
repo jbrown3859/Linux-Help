@@ -24,7 +24,7 @@ If copying a folder,
 
 #### scp -R relative_dir_path yourusername@192.168.1.222:server_dir_path
 
-ex) scp C:\Users\jbrow\OneDrive\Desktop\linux.md joey@192.168.1.222:/home/joey/md
+ex) scp C:\Users\jbrow\OneDrive\Desktop\linux.md joey@192.168.1.222:/home/joey/md  
 ex) scp -R C:\Users\jbrow\OneDrive\Desktop joey@192.168.1.222:/home/joey
 
 #### While working in the server...
