@@ -40,6 +40,8 @@ There are a useful commands that you will use often:
 | :wq          | save and exit vi when in normal mode                     |
 | Esc          | Enter normal mode in vi                                  |
 | i            | Enter INSERT mode in vi while in normal mode             |
+| vimtutor     | show a bit more info on how to use vi and vim            |
+| Ctrl + C     | Exit a process                                           |
 
 
 ### Server Management
